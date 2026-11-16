@@ -1,5 +1,5 @@
 {
- "upd": "2026-11-16T20:29:07Z",
+ "upd": "2026-11-16T20:51:49Z",
  "items": [
   {
    "id": "crossover-de-geiger-y-casaca-roja",
@@ -12,6 +12,86 @@
    "img": "https://www.tomosygrapas.com/wp-content/uploads/2026/11/Ghost-Machine-Banner.jpg"
   },
   {
+   "id": "zn-la-serpiente-en-el-jardin",
+   "tit": "La serpiente en el jardín: Ed Grey y la última batalla por Inglaterra, de Mike Mignola y Ben Stenbeck",
+   "d": "2026-11-16T09:00:45Z",
+   "url": "https://www.zonanegativa.com/la-serpiente-en-el-jardin/",
+   "res": "Volvemos al universo de Hellboy con Mike Mignola y Ben Stenbeck para asistir a una nueva aventura de Ed Grey, un duelo publicado por Norma en La serpiente en el jardín.",
+   "cat": "noticias",
+   "src": "Zona Negativa",
+   "img": "https://www.zonanegativa.com/imagenes/2026/11/La-serpiente-en-el-jardin-destacada.jpg"
+  },
+  {
+   "id": "zn-arca-de-van-jensen-y-jesse-lonergan",
+   "tit": "Arca de Van Jensen y Jesse Lonergan",
+   "d": "2026-11-15T09:00:06Z",
+   "url": "https://www.zonanegativa.com/arca-de-van-jensen-y-jesse-lonergan/",
+   "res": "Arca: una intriga de ciencia ficción con buen ritmo y una sociedad claustrofóbica",
+   "cat": "noticias",
+   "src": "Zona Negativa",
+   "img": "https://www.zonanegativa.com/imagenes/2026/11/Destacada_arca.jpg"
+  },
+  {
+   "id": "zn-superman-unlimited-13",
+   "tit": "Superman Unlimited #13",
+   "d": "2026-11-14T07:00:09Z",
+   "url": "https://www.zonanegativa.com/superman-unlimited-13/",
+   "res": "Nueva entrega de vuestra super serie contenedora mensual favorita. Superman Unlimited ¡¡Cuidado no te pille Tom King!!",
+   "cat": "noticias",
+   "src": "Zona Negativa",
+   "img": "https://www.zonanegativa.com/imagenes/2026/10/Captura-de-pantalla-2026-10-18-230933-1.png"
+  },
+  {
+   "id": "zn-servicio-informativo-del-comic-independiente-usa-678",
+   "tit": "Servicio Informativo del Cómic Independiente USA #678",
+   "d": "2026-11-13T17:00:31Z",
+   "url": "https://www.zonanegativa.com/servicio-informativo-del-comic-independiente-usa-678/",
+   "res": "Crossover de Ghost Machine, nuevo sello de Tynion y alguna que otra cosa más en nuestro servicio informativo del cómic independiente USA.",
+   "cat": "noticias",
+   "src": "Zona Negativa",
+   "img": "https://www.zonanegativa.com/imagenes/2026/11/notis-261113-dest.jpg"
+  },
+  {
+   "id": "zn-especial-sacamantecas",
+   "tit": "Especial Sacamantecas",
+   "d": "2026-11-13T14:00:13Z",
+   "url": "https://www.zonanegativa.com/especial-sacamantecas/",
+   "res": "Hablamos de Sacamantecas, película y adaptación en cómic, entrevistando a David Pérez Sañudo, Ángel Abellán y Miguel Herráiz.",
+   "cat": "cine",
+   "src": "Zona Negativa",
+   "img": "https://www.zonanegativa.com/imagenes/2026/11/Saca_dest.jpg"
+  },
+  {
+   "id": "zn-magazine-dc-noviembre-2026",
+   "tit": "Magazine DC- Noviembre 2026",
+   "d": "2026-11-13T13:00:54Z",
+   "url": "https://www.zonanegativa.com/magazine-dc-noviembre-2026/",
+   "res": "Winter is coming y el Magazine tambien una vez mas con su cita mensual ahora con 10% más de frío",
+   "cat": "noticias",
+   "src": "Zona Negativa",
+   "img": "https://www.zonanegativa.com/imagenes/2026/10/cover-avengers-jla-by-george-perez-v0-samw9og5re391-1-1.jpg"
+  },
+  {
+   "id": "zn-archie-in-hell-1-patrick-horvath-tyler-crook",
+   "tit": "Archie in Hell #1, de Patrick Horvath y Tyler Crook",
+   "d": "2026-11-13T11:00:20Z",
+   "url": "https://www.zonanegativa.com/archie-in-hell-1-patrick-horvath-tyler-crook/",
+   "res": "Oni Press continúa su relanzamiento de Archie con un título que busca replicar la fórmula de Afterlife with Archie, pero ahora llevándolo al Infierno: Archie in Hell.",
+   "cat": "noticias",
+   "src": "Zona Negativa",
+   "img": "https://www.zonanegativa.com/imagenes/2026/11/archie_in_hell_01_destacado.jpg"
+  },
+  {
+   "id": "zn-ace-of-spades-sweet-haven-blues",
+   "tit": "Ace of Spades. Sweet Haven Blues, de David Rubín y Benja Amorín",
+   "d": "2026-11-13T09:00:48Z",
+   "url": "https://www.zonanegativa.com/ace-of-spades-sweet-haven-blues/",
+   "res": "Ace of Spades. Sweet Haven Blues es trepidante weir western de David Rubín y Benja Amorín con entidad propia.",
+   "cat": "noticias",
+   "src": "Zona Negativa",
+   "img": "https://www.zonanegativa.com/imagenes/2026/11/ace-of-spades-sweet-haven-blues-destacada.jpg"
+  },
+  {
    "id": "primer-vistazo-nov-2-vengadores-hickman-patrulla-x-byrne-lovecraft-tomas-hijo",
    "tit": "PRIMER VISTAZO Nov #2 | Vengadores Hickman | Patrulla-X Byrne | Lovecraft Tomás Hijo",
    "d": "2026-11-12T13:57:50Z",
@@ -20,6 +100,26 @@
    "cat": "video",
    "src": "Tomos y Grapas",
    "img": "https://www.tomosygrapas.com/wp-content/uploads/2026/11/PRIMER-VISTAZO-ENE-1-2026-9-1.png"
+  },
+  {
+   "id": "zn-boletin-marvel-345",
+   "tit": "Boletín Marvel #345",
+   "d": "2026-11-12T11:00:30Z",
+   "url": "https://www.zonanegativa.com/boletin-marvel-345/",
+   "res": "¡Hulk inicia una nueva etapa de la mano de Chris Condon y Alessandro Cappuccio! ¡Marvel celebra Halloween con Catpool y Mousepool en un Infinity Comic gratuito! ¡Chip Zdarsky adelanta sus planes para Captain America y el futuro del Universo",
+   "cat": "noticias",
+   "src": "Zona Negativa",
+   "img": "https://www.zonanegativa.com/imagenes/2026/11/Boletin-Marvel-345-Imagen-destacada.jpg"
+  },
+  {
+   "id": "zn-dc-usa-justice-league-dark-realm-special",
+   "tit": "Reseñas DC USA – Justice League Dark Realm Special #1  (2026)",
+   "d": "2026-11-11T17:00:47Z",
+   "url": "https://www.zonanegativa.com/dc-usa-justice-league-dark-realm-special/",
+   "res": "¿Quién es Cadejos? ¿Por qué ha aparecido en varias series? Descubre su origen en este one-shot especial de Justice League Dark con guion y dibujo de Dan Mora y color de Tamra.",
+   "cat": "noticias",
+   "src": "Zona Negativa",
+   "img": "https://www.zonanegativa.com/imagenes/2026/11/hol-1-1.jpg"
   },
   {
    "id": "clara-cabez-gana-la-beca-comic-barcelona-angouleme-2027",
