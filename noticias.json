@@ -1,6 +1,26 @@
 {
- "upd": "2026-11-24T19:22:50Z",
+ "upd": "2026-11-25T10:27:00Z",
  "items": [
+  {
+   "id": "zn-vidas-con-nombre",
+   "tit": "Vidas con nombre, de Almudena Ariza y Fermín Solís",
+   "d": "2026-11-25T09:00:50Z",
+   "url": "https://www.zonanegativa.com/vidas-con-nombre/",
+   "res": "En Vidas con nombre, con Almudena Ariza y Fermín Solís dan voz a las victimas del genocidio que se esta cometiendo en Gaza y Cisjordania. Edita @SalamandraGraph",
+   "cat": "noticias",
+   "src": "Zona Negativa",
+   "img": "https://www.zonanegativa.com/imagenes/2026/11/vidas-con-nombre-destacadas.jpg"
+  },
+  {
+   "id": "zn-znpodcast-370-el-viaje-con-paco-roca",
+   "tit": "ZNPodcast #370 – El viaje, con Paco Roca",
+   "d": "2026-11-25T07:00:27Z",
+   "url": "https://www.zonanegativa.com/znpodcast-370-el-viaje-con-paco-roca/",
+   "res": "Charlamos distendidamente con Paco Roca sobre su último trabajo publicado: El viaje.",
+   "cat": "podcast",
+   "src": "Zona Negativa",
+   "img": "https://www.zonanegativa.com/imagenes/2026/11/ZNPodcast370_web.jpg"
+  },
   {
    "id": "unboxing-de-nuestros-primeros-comics-nace-tomos-y-grapas-editorial-%f0%9f%93%9a",
    "tit": "UNBOXING de nuestros PRIMEROS CÓMICS | Nace Tomos y Grapas EDITORIAL 📚",
